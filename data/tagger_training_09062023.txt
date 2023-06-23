@@ -26754,7 +26754,7 @@ Rúoin	NPR-N
 blíadain	N-N
 aithglantae	VBN-G
 lind#	P-1PL
-i 	PROS-3NS
+i	PROS-3NS
 "	PUNC
 ol	VBPI-3SG
 sésim	PROR-3MS
@@ -26940,7 +26940,7 @@ bert	VBD-3SG
 ar	PRO-G-1PL
 sruithi	N-N
 friind#	P-1PL
-+i 	PROPT-1PL
++i	PROPT-1PL
 idest	IDEST
 fer	N-N
 dá	NUM
@@ -28842,7 +28842,7 @@ Díthruib	NPR-A
 blíadain	N-N
 glantai	VBN-G
 lind#	P-1PL
-i 	PROS-3NS
+i	PROS-3NS
 só	ADV
 "	PUNC
 ol	VBPI-3SG
@@ -33328,7 +33328,7 @@ gesti	VBPS-2PL
 si	PROPT-2PL
 Día	NPR-A
 lind#	P-1PL
-i 	PROS-3NS
+i	PROS-3NS
 "	PUNC
 ol	VBPI-3SG
 sésiom	PROR-3MS
@@ -33343,7 +33343,7 @@ si	PROPT-2PL
 ar	PRO-G-1PL
 naurnithe	NS-A
 friind#	P-1PL
-+i 	PROPT-1PL
++i	PROPT-1PL
 .	PUNC
 ce	P
 ná	NEG-WH
@@ -41449,7 +41449,7 @@ nadmuim	VBN-D
 .	PUNC
 <utt>
 bc.17	ID
-an 	ADJ-N
+an	ADJ-N
 Chrimthand	NPR-N
 lethan	ADJ-N
 lonn	ADJ-N
@@ -41490,7 +41490,7 @@ dind	N-D
 .	PUNC
 <utt>
 bc.21	ID
-cain 	ADJ-N
+cain	ADJ-N
 cur	N-N
 Corpre	NPR-N
 co#	PV
@@ -41503,14 +41503,14 @@ fuirri	P-3FS
 .	PUNC
 <utt>
 bc.22	ID
-feal 	ADJ-N
+feal	ADJ-N
 Ailill	NPR-N
 hipht#	VBF-3SG
 us	PROS-3FS
 .	PUNC
 <utt>
 bc.23	ID
-lund 	ADJ-N
+lund	ADJ-N
 Lugid	NPR-N
 rohole	VBN-G
 saoer	ADJ-G
@@ -42574,7 +42574,7 @@ ao.62	ID
 "	PUNC
 ataat	BEPI-3PL
 lin#	P-1PL
-ni 	PROPT-1PL
+ni	PROPT-1PL
 <utt>
 ao.63	ID
 Óengus	NPR-N
@@ -42630,7 +42630,7 @@ ao.67	ID
 timmarnad	ASP-VBD-4SG
 duit	P-2SG
 ó#	P
-n 	D-D
+n	D-D
 Dagdu	NPR-D
 co#	C
 comtastar	VBPS-4SG
@@ -72365,7 +72365,7 @@ rl-.	FW
 <utt>
 nennius.111	ID
 [9._Todd]	CODE
-[13._VanHamel] CODE
+[13._VanHamel]	CODE
 tainig	VBD-3SG
 iardain	ADV
 dám	N-N
@@ -73536,7 +73536,7 @@ co#	C
 ro#	ASP
 gaib	VBD-3SG
 etgud	N-A
-an D-G
+an	D-G
 rig	N-G
 imi	P-3MS
 da	P
@@ -84274,7 +84274,7 @@ mionannála.296	ID
 ro#	ASP
 ghabsat	VBD-3PL
 fir	NS-N
- hErind	NPR-G
+hErind	NPR-G
 uile	Q
 do	P
 oenchind	N-D
